@@ -1,7 +1,7 @@
 ### Hi there 👋 , my name is Laura
 #### and I'm looking for my first IT job!
 
-I am currently finishing my final thesis work for my Biomedical Engineering degree and
+I am currently finishing my final thesis for my Biomedical Engineering degree and
 my first Full Stack development course. My goal is to continue improving with the tools I
 have learned and, added to the skills obtained throughout my career, to generate efficient
 solutions that contribute to my professional and personal development. I enjoy teamwork

@@ -10,7 +10,7 @@ and I always try to incorporate proactivity on my everyday tasks.
 Skills: HTML / CSS / JavaScript / React / Bootstrap / Material-UI / Figma
 
 - 🔭 I’m currently working on several things! Check out my repositories!
--  
+ 
 - 📫 How to reach me: mlauraberarducci@gmail.com 
 
 

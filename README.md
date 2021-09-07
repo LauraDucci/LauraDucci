@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Laura
 #### and I'm looking for my first IT job!
-![and I'm looking for my first IT job!](https://drive.google.com/file/d/1H_gKzekvUwxlXGhMKFFe5hL4aVzWni5K/view?usp=sharing)
-
+(![banner](https://drive.google.com/file/d/1H_gKzekvUwxlXGhMKFFe5hL4aVzWni5K/view?usp=sharing))
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: HTML / CSS / JavaScript / React / Bootstrap / Material-UI / Figma

@@ -1,10 +1,6 @@
 ### Hi there 👋 , my name is Laura
 
-I am currently finishing my final thesis for my Biomedical Engineering degree and
-my first Full Stack development course. My goal is to continue improving with the tools I
-have learned and, added to the skills obtained throughout my career, to generate efficient
-solutions that contribute to my professional and personal development. I enjoy teamwork
-and I always try to incorporate proactivity on my everyday tasks.
+As a biomedical engineer with an inclination towards coding, my goal is to generate efficient solutions that add value to the projects I am part of and, with these, to contribute to my professional and personal development. I enjoy teamwork, I am proactive, results- oriented and I speak English fluently.
 
 Skills: HTML / CSS / PHP / SQL / JavaScript / React / Bootstrap / Material-UI / Figma
 

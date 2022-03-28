@@ -1,5 +1,4 @@
 ### Hi there 👋 , my name is Laura
-#### and I'm looking for my first IT job!
 
 I am currently finishing my final thesis for my Biomedical Engineering degree and
 my first Full Stack development course. My goal is to continue improving with the tools I
@@ -7,7 +6,7 @@ have learned and, added to the skills obtained throughout my career, to generate
 solutions that contribute to my professional and personal development. I enjoy teamwork
 and I always try to incorporate proactivity on my everyday tasks.
 
-Skills: HTML / CSS / JavaScript / React / Bootstrap / Material-UI / Figma
+Skills: HTML / CSS / PHP / SQL / JavaScript / React / Bootstrap / Material-UI / Figma
 
 - 🔭 Check out my repositories! on *Sylvarum*, *Cineasta* and *ClinicaRyS* you´ll be able to see my progress this past few months! (And we're just getting started 😉 )
  
